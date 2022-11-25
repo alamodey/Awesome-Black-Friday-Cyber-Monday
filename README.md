@@ -40,6 +40,7 @@ Don't forget to:
 - [🚀 Startup SaaS/Tools (41)](#-startup-saastools)
 - [🌏 Social Media Tools (20)](#-social-media-tools)
 - [💸 Finance Tools (7)](#-finance-tools)
+- [🌎 Language Learning Tools (5)](#-language-tools)
 - [💅 Boilerplates, Templates, Themes, Plugins (32)](#-boilerplates-templates-themes-plugins)
 - [📚 Books ](#-books)
 	- [📗 Programming Books (13)](#-programming-books)
@@ -359,6 +360,19 @@ Don't forget to:
 
 [⬆️ Go to Top](#table-of-contents)
 
+## 🌎 Language Learning Tools
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  🤑 | [TokeiTango Japanese Flashcards](https://apps.apple.com/app/apple-store/id1492526803) | A spaced-repetition flashcard app to learn Japanese vocab on the Apple Watch  | 50% OFF |
+|  🤑 | [JLPT Flashcards - KeitaiTango](https://apps.apple.com/au/app/bunkado/id1546470961#?platform=iphone) | Japanese JLPT flashcards on your iPhone  | 50% OFF Premium Lifetime |
+|  🤑 | [Kaku - Japanese studies notebook](https://apps.apple.com/au/app/kaku/id1515101339) | iPhone/iPad notebook app for studying Japanese with in-built translator, dictionaries, conjugation and grammar assistant. | 50% OFF Premium Lifetime |
+|  🤑 | [Imawa - Japanese Date/Time](https://apps.apple.com/app/apple-store/id1492526803) | Learn to read Japanese dates and time on your Apple Watch | 50% OFF |
+|  🤑 | [Chinese Flashcards - Zungzi](https://apps.apple.com/app/apple-store/id1496948615) | A spaced-repetition flashcard app to learn Chinese vocab on the Apple Watch | 50% OFF |
+
+
+[⬆️ Go to Top](#table-of-contents)
+
 ## 💅 Boilerplates, Templates, Themes, Plugins
 
 |  | Name | Description | Discount Code & Terms |
@@ -558,6 +572,7 @@ Don't forget to:
 | 🤑 | [McClockface](https://apps.apple.com/app/mcclockface/id1544343485) | Beautiful clock widgets for iOS and iPadOS. | 60% off regular price, one-time lifetime purchase. |
 | 🤑 | [FilmNoir: Movie & TV Show Tracker](https://apps.apple.com/app/apple-store/id1528417240?pt=122011495&ct=blackfriday2022&mt=8) | Discover films and TV shows. Track your full watched history. Find out where to watch. | 50% off the one-time lifetime purchase. Up to 40% off the first year with the code **[BLACKFRIDAY2022](https://apps.apple.com/redeem?ctx=offercodes&id=1528417240&code=BLACKFRIDAY2022)** |
 | 💰 | [Weathergraph weather widget]([https://apps.apple.com/app/mcclockface/id1544343485](https://apps.apple.com/app/apple-store/id1501958576?pt=1920589) | Visual hour-by-hour weather forecast app with widgets and watch complications, made for and by outdoor people. | 30% off for a first year. |
+|  🤑 | [Food Combos](https://apps.apple.com/au/app/food-combos/id1587097268) | Food combinations reference app for foodies and chefs on your iPhone. | 50% OFF |
 
 
 [⬆️ Go to Top](#table-of-contents)
